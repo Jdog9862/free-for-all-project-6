@@ -3,7 +3,7 @@
 
 Now I know we all have seen the little dollar store pet laser that you can barely see after 20 ft. Don't get me wrong, for that price my cat is more than enough entertained; but lasers have way more uses than making dogs go in circles over and over. When the laser's quality increases, they then gain the potential to burn whatever comes across their path. Now depending on the reason you would ever want one of these monstrosities, they are compleatly harmless if you follow the standard safty procedure for using high powered lasers. Safety measures used with the more powerful lasers include the following: key-controlled operation, warning lights to indicate laser beam emission, a beam stop or attenuator (to reduce laser strength), and an electrical contact that the user can connect to an emergency stop of laser emission, or interlock. These are the most basic of saftey measures for high powered lasers and there is good reason for them.
     
-The Uses</h1>
+# The Uses
     
 <p>There are many benefitial uses for lasers and here are a few</p>
 <ol>
